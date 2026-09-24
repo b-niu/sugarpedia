@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 430" width="720" height="430" font-family="Segoe UI, Microsoft YaHei, Helvetica, Arial, sans-serif"><rect width="720" height="430" fill="white"/>
+<text x="360.0" y="28.0" font-size="16" fill="#2B2B2B" text-anchor="middle" font-weight="bold">地方三层：道—府州—县，以及州县的分等</text>
+<text x="360.0" y="50.0" font-size="12" fill="#5A5A5A" text-anchor="middle">州按户口分等，长官的品级随之升降；县的分等更细</text>
+<rect x="40.0" y="76.0" width="168.0" height="56.0" rx="8" fill="#D55E00" fill-opacity="0.2" stroke="#D55E00" stroke-width="1.5"/>
+<text x="124.0" y="92.9" font-size="15" fill="#2B2B2B" text-anchor="middle" font-weight="bold">道</text>
+<text x="124.0" y="108.3" font-size="12" fill="#2B2B2B" text-anchor="middle">监察区，开元十五道</text>
+<text x="124.0" y="124.8" font-size="12" fill="#2B2B2B" text-anchor="middle">设采访处置使</text>
+<rect x="276.0" y="76.0" width="168.0" height="56.0" rx="8" fill="#0072B2" fill-opacity="0.2" stroke="#0072B2" stroke-width="1.5"/>
+<text x="360.0" y="92.9" font-size="15" fill="#2B2B2B" text-anchor="middle" font-weight="bold">府 · 州</text>
+<text x="360.0" y="108.3" font-size="12" fill="#2B2B2B" text-anchor="middle">州分辅雄望紧</text>
+<text x="360.0" y="124.8" font-size="12" fill="#2B2B2B" text-anchor="middle">上中下七等</text>
+<rect x="512.0" y="76.0" width="168.0" height="56.0" rx="8" fill="#009E73" fill-opacity="0.2" stroke="#009E73" stroke-width="1.5"/>
+<text x="596.0" y="92.9" font-size="15" fill="#2B2B2B" text-anchor="middle" font-weight="bold">县</text>
+<text x="596.0" y="108.3" font-size="12" fill="#2B2B2B" text-anchor="middle">赤畿望紧上中</text>
+<text x="596.0" y="124.8" font-size="12" fill="#2B2B2B" text-anchor="middle">中下下，等第最细</text>
+<path d="M 208.0 104.0 L 269.0 104.0" fill="none" stroke="#5A5A5A" stroke-width="2.0"/><path d="M 263 99.0 L 270 104.0 L 263 109.0" fill="none" stroke="#5A5A5A" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 444.0 104.0 L 505.0 104.0" fill="none" stroke="#5A5A5A" stroke-width="2.0"/><path d="M 499 99.0 L 506 104.0 L 499 109.0" fill="none" stroke="#5A5A5A" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="40.0" y="168.0" width="320.0" height="168.0" rx="8" fill="#0072B2" fill-opacity="0.08" stroke="#0072B2" stroke-width="1.5"/>
+<text x="56.0" y="192.0" font-size="13" fill="#0072B2" font-weight="bold">州的三等（按户口）</text>
+<text x="56.0" y="226.0" font-size="12.5" fill="#2B2B2B" font-weight="bold">上州</text>
+<text x="120.0" y="226.0" font-size="12" fill="#5A5A5A">户四万以上</text>
+<text x="244.0" y="226.0" font-size="12" fill="#2B2B2B">刺史 从三品</text>
+<text x="56.0" y="260.0" font-size="12.5" fill="#2B2B2B" font-weight="bold">中州</text>
+<text x="120.0" y="260.0" font-size="12" fill="#5A5A5A">户二万至四万</text>
+<text x="244.0" y="260.0" font-size="12" fill="#2B2B2B">刺史 正四品上</text>
+<text x="56.0" y="294.0" font-size="12.5" fill="#2B2B2B" font-weight="bold">下州</text>
+<text x="120.0" y="294.0" font-size="12" fill="#5A5A5A">户不足二万</text>
+<text x="244.0" y="294.0" font-size="12" fill="#2B2B2B">刺史 正四品下</text>
+<text x="56.0" y="330.0" font-size="12" fill="#5A5A5A">另有辅、雄、望、紧四等，按政治地位而非户口，位于上州之前。</text>
+<rect x="376.0" y="168.0" width="304.0" height="168.0" rx="8" fill="#009E73" fill-opacity="0.08" stroke="#009E73" stroke-width="1.5"/>
+<text x="392.0" y="192.0" font-size="13" fill="#009E73" font-weight="bold">县的两套等级</text>
+<text x="392.0" y="224.0" font-size="12.5" fill="#2B2B2B" font-weight="bold">赤、畿</text>
+<text x="452.0" y="224.0" font-size="12" fill="#5A5A5A">京城与陪都所在及近郊</text>
+<text x="392.0" y="254.0" font-size="12.5" fill="#2B2B2B" font-weight="bold">望、紧</text>
+<text x="452.0" y="254.0" font-size="12" fill="#5A5A5A">按资地美恶，不限户数并为上县</text>
+<text x="392.0" y="284.0" font-size="12.5" fill="#2B2B2B" font-weight="bold">上县</text>
+<text x="452.0" y="284.0" font-size="12" fill="#5A5A5A">户六千以上（武德时为五千）</text>
+<text x="392.0" y="314.0" font-size="12.5" fill="#2B2B2B" font-weight="bold">中县</text>
+<text x="452.0" y="314.0" font-size="12" fill="#5A5A5A">户三千以上（武德时为二千）</text>
+<text x="24.0" y="366.0" font-size="12" fill="#5A5A5A">武德年间以三万户为上州，开元十八年（730）改以四万户为限；</text>
+<text x="24.0" y="388.0" font-size="12" fill="#5A5A5A">缘边与岭南诸州的门槛酌情放宽。亲王出任中州、下州刺史时，</text>
+<text x="24.0" y="410.0" font-size="12" fill="#5A5A5A">该州亦升为上州，王去任后仍旧。</text>
+</svg>

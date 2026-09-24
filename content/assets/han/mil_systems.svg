@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 436" width="720" height="436" font-family="Segoe UI, Microsoft YaHei, Helvetica, Arial, sans-serif"><rect width="720" height="436" fill="white"/>
+<text x="360.0" y="28.0" font-size="16" fill="#2B2B2B" text-anchor="middle" font-weight="bold">汉代的军事官职分属六条线</text>
+<text x="360.0" y="50.0" font-size="12" fill="#5A5A5A" text-anchor="middle">「校尉」「中郎将」「将军」都只是名号，自己的职权要看挂在哪一条线上</text>
+<rect x="17.0" y="72.0" width="222.0" height="34.0" rx="7" fill="#0072B2" fill-opacity="0.22" stroke="#0072B2" stroke-width="1.5"/>
+<text x="128.0" y="93.7" font-size="13" fill="#2B2B2B" text-anchor="middle" font-weight="bold">宫官系统</text>
+<rect x="17.0" y="114.0" width="222.0" height="84.0" rx="7" fill="#0072B2" fill-opacity="0.1" stroke="#0072B2" stroke-width="1.2"/>
+<text x="128.0" y="151.3" font-size="12.0" fill="#2B2B2B" text-anchor="middle">光禄勋 → 郎官</text>
+<text x="128.0" y="169.3" font-size="12.0" fill="#2B2B2B" text-anchor="middle">中郎将为其统领，宿卫宫门</text>
+<rect x="248.0" y="72.0" width="222.0" height="34.0" rx="7" fill="#56B4E9" fill-opacity="0.22" stroke="#56B4E9" stroke-width="1.5"/>
+<text x="359.0" y="93.7" font-size="13" fill="#2B2B2B" text-anchor="middle" font-weight="bold">南　军</text>
+<rect x="248.0" y="114.0" width="222.0" height="84.0" rx="7" fill="#56B4E9" fill-opacity="0.1" stroke="#56B4E9" stroke-width="1.2"/>
+<text x="359.0" y="151.3" font-size="12.0" fill="#2B2B2B" text-anchor="middle">卫尉掌宫城卫士</text>
+<text x="359.0" y="169.3" font-size="12.0" fill="#2B2B2B" text-anchor="middle">负责皇宫内部的宿卫</text>
+<rect x="479.0" y="72.0" width="222.0" height="34.0" rx="7" fill="#D55E00" fill-opacity="0.22" stroke="#D55E00" stroke-width="1.5"/>
+<text x="590.0" y="93.7" font-size="13" fill="#2B2B2B" text-anchor="middle" font-weight="bold">北　军</text>
+<rect x="479.0" y="114.0" width="222.0" height="84.0" rx="7" fill="#D55E00" fill-opacity="0.1" stroke="#D55E00" stroke-width="1.2"/>
+<text x="590.0" y="151.3" font-size="12.0" fill="#2B2B2B" text-anchor="middle">中尉（执金吾）→ 八校尉</text>
+<text x="590.0" y="169.3" font-size="12.0" fill="#2B2B2B" text-anchor="middle">京师屯兵，战时抽调出征</text>
+<rect x="17.0" y="222.0" width="222.0" height="34.0" rx="7" fill="#AFAFAF" fill-opacity="0.22" stroke="#AFAFAF" stroke-width="1.5"/>
+<text x="128.0" y="243.7" font-size="13" fill="#2B2B2B" text-anchor="middle" font-weight="bold">城　门</text>
+<rect x="17.0" y="264.0" width="222.0" height="84.0" rx="7" fill="#AFAFAF" fill-opacity="0.1" stroke="#AFAFAF" stroke-width="1.2"/>
+<text x="128.0" y="301.3" font-size="12.0" fill="#2B2B2B" text-anchor="middle">城门校尉</text>
+<text x="128.0" y="319.3" font-size="12.0" fill="#2B2B2B" text-anchor="middle">掌京师十二座城门</text>
+<rect x="248.0" y="222.0" width="222.0" height="34.0" rx="7" fill="#009E73" fill-opacity="0.22" stroke="#009E73" stroke-width="1.5"/>
+<text x="359.0" y="243.7" font-size="13" fill="#2B2B2B" text-anchor="middle" font-weight="bold">出　征</text>
+<rect x="248.0" y="264.0" width="222.0" height="84.0" rx="7" fill="#009E73" fill-opacity="0.1" stroke="#009E73" stroke-width="1.2"/>
+<text x="359.0" y="301.3" font-size="12.0" fill="#2B2B2B" text-anchor="middle">将军 → 部曲 → 校尉</text>
+<text x="359.0" y="319.3" font-size="12.0" fill="#2B2B2B" text-anchor="middle">因战事临时组建，事罢即撤</text>
+<rect x="479.0" y="222.0" width="222.0" height="34.0" rx="7" fill="#4A4A4A" fill-opacity="0.22" stroke="#4A4A4A" stroke-width="1.5"/>
+<text x="590.0" y="243.7" font-size="13" fill="#2B2B2B" text-anchor="middle" font-weight="bold">监　察</text>
+<rect x="479.0" y="264.0" width="222.0" height="84.0" rx="7" fill="#4A4A4A" fill-opacity="0.1" stroke="#4A4A4A" stroke-width="1.2"/>
+<text x="590.0" y="301.3" font-size="12.0" fill="#2B2B2B" text-anchor="middle">司隶校尉察京师七郡</text>
+<text x="590.0" y="319.3" font-size="12.0" fill="#2B2B2B" text-anchor="middle">刺史（后之州牧）察一州</text>
+<text x="24.0" y="394.0" font-size="12" fill="#5A5A5A">汉代以「石」计秩：中二千石、二千石、比二千石、千石、六百石依次而降。</text>
+<text x="24.0" y="416.0" font-size="12" fill="#5A5A5A">同一个名号可以出现在不同线上，所以「校尉」的含金量差别极大。</text>
+</svg>

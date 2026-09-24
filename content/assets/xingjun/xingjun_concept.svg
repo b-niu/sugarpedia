@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 430" width="720" height="430" font-family="Segoe UI, Microsoft YaHei, Helvetica, Arial, sans-serif"><rect width="720" height="430" fill="white"/>
+<text x="360.0" y="28.0" font-size="16" fill="#2B2B2B" text-anchor="middle" font-weight="bold">「行军」的「道」是出兵方向，不是行政区</text>
+<text x="360.0" y="50.0" font-size="12" fill="#5A5A5A" text-anchor="middle">唐代有两个「道」，同名而异义，读史时必须按上下文分辨</text>
+<rect x="24.0" y="70.0" width="324.0" height="150.0" rx="8" fill="#D55E00" fill-opacity="0.14" stroke="#D55E00" stroke-width="1.5"/>
+<text x="186.0" y="119.7" font-size="13" fill="#2B2B2B" text-anchor="middle" font-weight="bold">行政的道</text>
+<text x="186.0" y="139.3" font-size="12.0" fill="#2B2B2B" text-anchor="middle">河南道、河北道、江南道……</text>
+<text x="186.0" y="159.3" font-size="12.0" fill="#2B2B2B" text-anchor="middle">有明确辖境，本质是监察区</text>
+<text x="186.0" y="179.3" font-size="12.0" fill="#2B2B2B" text-anchor="middle">长官：采访处置使、节度使</text>
+<rect x="372.0" y="70.0" width="324.0" height="150.0" rx="8" fill="#0072B2" fill-opacity="0.14" stroke="#0072B2" stroke-width="1.5"/>
+<text x="534.0" y="119.7" font-size="13" fill="#2B2B2B" text-anchor="middle" font-weight="bold">行军的道</text>
+<text x="534.0" y="139.3" font-size="12.0" fill="#2B2B2B" text-anchor="middle">葱山道、伊丽道、交河道……</text>
+<text x="534.0" y="159.3" font-size="12.0" fill="#2B2B2B" text-anchor="middle">只表示这一路兵往哪个方向去</text>
+<text x="534.0" y="179.3" font-size="12.0" fill="#2B2B2B" text-anchor="middle">长官：行军大总管</text>
+<text x="24.0" y="248.0" font-size="12" fill="#5A5A5A">「葱山」是葱岭，「伊丽」是伊犁河，「交河」是吐鲁番的城——都不是行政区。</text>
+<text x="24.0" y="272.0" font-size="12" fill="#5A5A5A">所以「葱山道行军大总管」的意思是一次战役的前线统帅，打完即撤。</text>
+<text x="24.0" y="306.0" font-size="12.5" fill="#2B2B2B" font-weight="bold">行军的编制（据《通典》所引《李靖兵法》）</text>
+<rect x="21.0" y="318.0" width="150.0" height="56.0" rx="8" fill="#009E73" fill-opacity="0.16" stroke="#009E73" stroke-width="1.5"/>
+<text x="96.0" y="340.7" font-size="13" fill="#2B2B2B" text-anchor="middle" font-weight="bold">大总管</text>
+<text x="96.0" y="360.3" font-size="12.0" fill="#2B2B2B" text-anchor="middle">全军统帅</text>
+<path d="M 173.0 346 L 191.0 346" fill="none" stroke="#5A5A5A" stroke-width="1.8"/><path d="M 186 341.5 L 192 346 L 186 350.5" fill="none" stroke="#5A5A5A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="197.0" y="318.0" width="150.0" height="56.0" rx="8" fill="#009E73" fill-opacity="0.16" stroke="#009E73" stroke-width="1.5"/>
+<text x="272.0" y="340.7" font-size="13" fill="#2B2B2B" text-anchor="middle" font-weight="bold">总管</text>
+<text x="272.0" y="360.3" font-size="12.0" fill="#2B2B2B" text-anchor="middle">分领一军</text>
+<path d="M 349.0 346 L 367.0 346" fill="none" stroke="#5A5A5A" stroke-width="1.8"/><path d="M 362 341.5 L 368 346 L 362 350.5" fill="none" stroke="#5A5A5A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="373.0" y="318.0" width="150.0" height="56.0" rx="8" fill="#009E73" fill-opacity="0.16" stroke="#009E73" stroke-width="1.5"/>
+<text x="448.0" y="340.7" font-size="13" fill="#2B2B2B" text-anchor="middle" font-weight="bold">子总管</text>
+<text x="448.0" y="360.3" font-size="12.0" fill="#2B2B2B" text-anchor="middle">领一营</text>
+<path d="M 525.0 346 L 543.0 346" fill="none" stroke="#5A5A5A" stroke-width="1.8"/><path d="M 538 341.5 L 544 346 L 538 350.5" fill="none" stroke="#5A5A5A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="549.0" y="318.0" width="150.0" height="56.0" rx="8" fill="#009E73" fill-opacity="0.16" stroke="#009E73" stroke-width="1.5"/>
+<text x="624.0" y="340.7" font-size="13" fill="#2B2B2B" text-anchor="middle" font-weight="bold">队</text>
+<text x="624.0" y="360.3" font-size="12.0" fill="#2B2B2B" text-anchor="middle">五十人为一队</text>
+</svg>
