@@ -1,0 +1,21 @@
+[project]
+name = "sugarpedia"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "bing", email = "bniu09@foxmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.3",
+    "opencv-python>=5.0.0.93",
+]
+
+[project.scripts]
+sugarpedia = "sugarpedia:main"
+
+[build-system]
+requires = ["uv_build>=0.12.3,<0.13.0"]
+build-backend = "uv_build"
