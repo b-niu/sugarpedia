@@ -15,6 +15,24 @@
 | [scripts/](./scripts/) | 配图生成等工具脚本 |
 | [TODO](./TODO.md) | 待办清单 |
 
+## 🔗 克隆与子模块
+
+```bash
+# 首次克隆：连子模块一起拉
+git clone --recurse-submodules https://github.com/b-niu/sugarpedia.git
+
+# 已有本地仓库：补拉/初始化子模块
+git submodule update --init --recursive
+```
+
+同步子模块远端的更新（子模块自己的 `main`）：
+
+```bash
+git submodule update --remote --merge sugarvault
+```
+
+> **排查提示**：若 `git status` 出现 `modified: sugarvault (modified content)`，说明是子模块**工作区**有未提交改动，不是网络或权限问题。此时 `git submodule update` 无法恢复被删除的文件——HEAD 没变，Git 只会回一句 `Already on 'main'`。正确做法是进子模块执行 `git restore -- .`，再回主仓库确认 `git status` 干净。
+
 ## 🗂️ 知识分区
 
 ```text
@@ -27,7 +45,7 @@ content/
 └── 06_sources/        📖 溯源库
 ```
 
-## � 文章索引
+## 📚 文章索引
 
 | 分区 | 文章 | 状态 |
 |---|---|---|
@@ -40,6 +58,6 @@ content/
 
 > 配图均为 SVG 矢量图，由 [scripts/](./scripts/) 中的 Python 脚本参数化生成，可复现、可调整。
 
-## �� 内容声明
+## 🔒 内容声明
 
 本仓库仅收录客观知识与脱敏后的技术分析，不包含任何个人身份信息、网络配置、硬件资产清单或密钥凭证。详见[设计文档 · 内容安全纪律](./docs/design.md#-内容安全纪律)。
