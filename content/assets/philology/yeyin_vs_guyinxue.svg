@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 404" width="720" height="404" font-family="Segoe UI, Microsoft YaHei, Helvetica, Arial, sans-serif"><rect width="720" height="404" fill="white"/>
+<text x="360.0" y="28.0" font-size="16" fill="#2B2B2B" text-anchor="middle" font-weight="bold">同一起点，两种做法：叶音与古音学</text>
+<text x="360.0" y="50.0" font-size="12" fill="#5A5A5A" text-anchor="middle">按今音读古诗不押韵，第一反应是改字音；古音学改的是假设</text>
+<rect x="24" y="70" width="320" height="300" rx="12" fill="#FAFBFC" stroke="#DCE3EA" stroke-width="1.4"/>
+<text x="184.0" y="90.0" font-size="13.5" fill="#D55E00" text-anchor="middle" font-weight="bold">叶音的做法（已废弃）</text>
+<rect x="40" y="104" width="288" height="46" rx="8" fill="white" stroke="#D55E00" stroke-width="1.4"/>
+<text x="184.0" y="131.5" font-size="12.5" fill="#2B2B2B" text-anchor="middle">读到古诗不押韵</text>
+<rect x="40" y="166" width="288" height="46" rx="8" fill="white" stroke="#D55E00" stroke-width="1.4"/>
+<text x="184.0" y="193.5" font-size="12.5" fill="#2B2B2B" text-anchor="middle">临时改读韵脚字的读音</text>
+<rect x="40" y="228" width="288" height="46" rx="8" fill="white" stroke="#D55E00" stroke-width="1.4"/>
+<text x="184.0" y="255.5" font-size="12.5" fill="#2B2B2B" text-anchor="middle">同一个字在不同诗篇得到不同读音</text>
+<rect x="40" y="290" width="288" height="46" rx="8" fill="white" stroke="#D55E00" stroke-width="1.4"/>
+<text x="184.0" y="317.5" font-size="12.5" fill="#2B2B2B" text-anchor="middle">结果：读音各随其诗，无系统可循</text>
+<path d="M 184.0 153 L 184.0 163" fill="none" stroke="#D55E00" stroke-width="2" stroke-linecap="round"/>
+<path d="M 179.0 155 L 184.0 163 L 189.0 155" fill="none" stroke="#D55E00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 184.0 215 L 184.0 225" fill="none" stroke="#D55E00" stroke-width="2" stroke-linecap="round"/>
+<path d="M 179.0 217 L 184.0 225 L 189.0 217" fill="none" stroke="#D55E00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 184.0 277 L 184.0 287" fill="none" stroke="#D55E00" stroke-width="2" stroke-linecap="round"/>
+<path d="M 179.0 279 L 184.0 287 L 189.0 279" fill="none" stroke="#D55E00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="376" y="70" width="320" height="300" rx="12" fill="#FAFBFC" stroke="#DCE3EA" stroke-width="1.4"/>
+<text x="536.0" y="90.0" font-size="13.5" fill="#009E73" text-anchor="middle" font-weight="bold">古音学的做法（今用）</text>
+<rect x="392" y="104" width="288" height="46" rx="8" fill="white" stroke="#009E73" stroke-width="1.4"/>
+<text x="536.0" y="131.5" font-size="12.5" fill="#2B2B2B" text-anchor="middle">读到古诗不押韵</text>
+<rect x="392" y="166" width="288" height="46" rx="8" fill="white" stroke="#009E73" stroke-width="1.4"/>
+<text x="536.0" y="193.5" font-size="12.5" fill="#2B2B2B" text-anchor="middle">假定古今读音本来就不同</text>
+<rect x="392" y="228" width="288" height="46" rx="8" fill="white" stroke="#009E73" stroke-width="1.4"/>
+<text x="536.0" y="255.5" font-size="12.5" fill="#2B2B2B" text-anchor="middle">用韵例与谐声偏旁系统求证</text>
+<rect x="392" y="290" width="288" height="46" rx="8" fill="white" stroke="#009E73" stroke-width="1.4"/>
+<text x="536.0" y="317.5" font-size="12.5" fill="#2B2B2B" text-anchor="middle">结果：得出有规律的音变对应，可检验</text>
+<path d="M 536.0 153 L 536.0 163" fill="none" stroke="#009E73" stroke-width="2" stroke-linecap="round"/>
+<path d="M 531.0 155 L 536.0 163 L 541.0 155" fill="none" stroke="#009E73" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 536.0 215 L 536.0 225" fill="none" stroke="#009E73" stroke-width="2" stroke-linecap="round"/>
+<path d="M 531.0 217 L 536.0 225 L 541.0 217" fill="none" stroke="#009E73" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 536.0 277 L 536.0 287" fill="none" stroke="#009E73" stroke-width="2" stroke-linecap="round"/>
+<path d="M 531.0 279 L 536.0 287 L 541.0 279" fill="none" stroke="#009E73" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="24.0" y="388.0" font-size="12" fill="#5A5A5A">两边的分岔点在第二步：叶音改的是字音，古音学改的是「古今音相同」这个假设。</text>
+</svg>

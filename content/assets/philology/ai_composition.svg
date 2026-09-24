@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 452" width="720" height="452" font-family="Segoe UI, Microsoft YaHei, Helvetica, Arial, sans-serif"><rect width="720" height="452" fill="white"/>
+<text x="360.0" y="28.0" font-size="16" fill="#2B2B2B" text-anchor="middle" font-weight="bold">「矮」的构形：义符管长度，声符只管读音</text>
+<text x="360.0" y="50.0" font-size="12" fill="#5A5A5A" text-anchor="middle">拆开看结构，才能判断「曲解成射」错在哪一步</text>
+<rect x="24" y="66" width="672" height="168" rx="10" fill="#FAFBFC" stroke="#DCE3EA" stroke-width="1.4"/>
+<rect x="52" y="92" width="64" height="50" rx="8" fill="white" stroke="#4A4A4A" stroke-width="1.4"/>
+<text x="84.0" y="126.0" font-size="26" fill="#4A4A4A" text-anchor="middle" font-weight="bold">矮</text>
+<text x="132.0" y="126.0" font-size="20" fill="#5A5A5A" text-anchor="middle" font-weight="bold">＝</text>
+<rect x="158" y="92" width="64" height="50" rx="8" fill="white" stroke="#0072B2" stroke-width="1.4"/>
+<text x="190.0" y="126.0" font-size="26" fill="#0072B2" text-anchor="middle" font-weight="bold">矢</text>
+<text x="238.0" y="126.0" font-size="20" fill="#5A5A5A" text-anchor="middle" font-weight="bold">＋</text>
+<rect x="264" y="92" width="64" height="50" rx="8" fill="white" stroke="#009E73" stroke-width="1.4"/>
+<text x="296.0" y="126.0" font-size="26" fill="#009E73" text-anchor="middle" font-weight="bold">委</text>
+<text x="190.0" y="166.0" font-size="12" fill="#0072B2" text-anchor="middle" font-weight="bold">义符</text>
+<text x="296.0" y="166.0" font-size="12" fill="#009E73" text-anchor="middle" font-weight="bold">声符</text>
+<text x="52.0" y="200.0" font-size="12.5" fill="#2B2B2B">「矢」提示义类：古人以矢为准量长短。「委」只提供读音（wěi），不参与表义。</text>
+<text x="52.0" y="220.0" font-size="12.5" fill="#2B2B2B">把「委」读成「抛弃」再合成「把箭抛出去」，是把声符当成了义符。</text>
+<rect x="24" y="252" width="672" height="150" rx="10" fill="#FAFBFC" stroke="#DCE3EA" stroke-width="1.4"/>
+<text x="52.0" y="282.0" font-size="12.5" fill="#2B2B2B" font-weight="bold">同一条义类还留在这几个字里：</text>
+<rect x="72" y="298" width="62" height="48" rx="8" fill="white" stroke="#0072B2" stroke-width="1.4"/>
+<text x="103.0" y="333.0" font-size="24" fill="#0072B2" text-anchor="middle" font-weight="bold">短</text>
+<text x="103.0" y="364.0" font-size="12" fill="#5A5A5A" text-anchor="middle">长度不足</text>
+<rect x="192" y="298" width="62" height="48" rx="8" fill="white" stroke="#0072B2" stroke-width="1.4"/>
+<text x="223.0" y="333.0" font-size="24" fill="#0072B2" text-anchor="middle" font-weight="bold">矬</text>
+<text x="223.0" y="364.0" font-size="12" fill="#5A5A5A" text-anchor="middle">个子矮</text>
+<rect x="312" y="298" width="62" height="48" rx="8" fill="white" stroke="#0072B2" stroke-width="1.4"/>
+<text x="343.0" y="333.0" font-size="24" fill="#0072B2" text-anchor="middle" font-weight="bold">矫</text>
+<text x="343.0" y="364.0" font-size="12" fill="#5A5A5A" text-anchor="middle">取直</text>
+<text x="452.0" y="300.0" font-size="12.5" fill="#2B2B2B">《说文》释「短」：</text>
+<text x="452.0" y="320.0" font-size="12.5" fill="#2B2B2B">「有所长短，以矢为正。」</text>
+<text x="452.0" y="348.0" font-size="12" fill="#5A5A5A">箭杆有定长，故可作标尺；</text>
+<text x="452.0" y="366.0" font-size="12" fill="#5A5A5A">「矫」「矩」等取直之字亦从矢。</text>
+<text x="24.0" y="434.0" font-size="12" fill="#5A5A5A">「矮」最早形体为小篆，甲骨文、金文中均不见此字。</text>
+</svg>
