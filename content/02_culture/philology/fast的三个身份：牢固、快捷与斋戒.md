@@ -4,7 +4,7 @@ aliases: [为什么 breakfast 是打破斋戒, 空腹血糖为什么叫 fasting 
 date: 2026-09-24
 status: growing
 tags: [philology, 词源, 医学史]
-up: "[训诂学]"
+up: "[[训诂学]]"
 ---
 
 # fast 的三个身份：牢固、快捷与斋戒

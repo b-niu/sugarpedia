@@ -58,6 +58,7 @@ content/
 | 🏛️ 训诂 | ["表"字的语义演变时间线](./content/02_culture/philology/表字的语义演变时间线.md) | growing |
 | ⚙️ 计算机科学 | [显示设备亮度、对比度与 Alpha 通道调控的物理机制与数学建模](./content/03_engineering/computer_science/显示设备亮度、对比度与Alpha通道调控的物理机制与数学建模.md) | growing |
 | ⚙️ 计算机科学 | [扫描仪三参数：亮度、对比度与伽马的点运算](./content/03_engineering/computer_science/扫描仪三参数：亮度、对比度与伽马的点运算.md) | growing |
+| ✈️ 航空器 | [航空器](./content/03_engineering/aerospace/航空器.md) | growing |
 
 > 配图均为 SVG 矢量图，由 [scripts/](./scripts/) 中的 Python 脚本参数化生成，可复现、可调整。
 

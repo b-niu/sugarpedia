@@ -4,7 +4,7 @@ aliases: [naive 的两个点是什么意思, naïve 为什么有分音符, diaer
 date: 2026-09-24
 status: growing
 tags: [philology, 词源, 正字法]
-up: "[训诂学]"
+up: "[[训诂学]]"
 ---
 
 # naïve 头上的两个点：分音符、法语与"天真"的来历

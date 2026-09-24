@@ -4,7 +4,7 @@ aliases: [PET 成像原理, Positron Emission Tomography]
 date: 2026-09-24
 status: growing
 tags: [physics, 医学影像, 逆问题]
-up: "[正电子湮灭]"
+up: "[[正电子湮灭]]"
 ---
 
 # 一颗正电子的旅程：PET 如何听见身体里的光

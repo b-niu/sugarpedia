@@ -4,7 +4,7 @@ aliases: [Normal 一词的多义性, 为什么师范叫 Normal, normal 词源]
 date: 2026-09-24
 status: growing
 tags: [philology, 词源, statistics, geometry]
-up: "[训诂学]"
+up: "[[训诂学]]"
 ---
 
 # Normal 的四重含义：正常、法向量、正态分布与师范
