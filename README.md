@@ -27,6 +27,19 @@ content/
 └── 06_sources/        📖 溯源库
 ```
 
-## 🔒 内容声明
+## � 文章索引
+
+| 分区 | 文章 | 状态 |
+|---|---|---|
+| 🌌 物理 | [电子与正电子：一枚粒子和它的镜像](./content/01_nature/physics/电子与正电子：一枚粒子和它的镜像.md) | growing |
+| 🌌 医学影像 | [一颗正电子的旅程：PET 如何听见身体里的光](./content/01_nature/biology/一颗正电子的旅程：PET如何听见身体里的光.md) | growing |
+| 🌌 天文 | [行星的奇妙"转向"：南北极、不变平面与那些"躺倒"的行星](./content/01_nature/astronomy/行星的奇妙转向：南北极、不变平面与躺倒的行星.md) | growing |
+| 🌌 数学 | [Normal 的三重含义：正常、法向量与正态分布](./content/01_nature/mathematics/Normal的三重含义：正常、法向量与正态分布.md) | growing |
+| 🏛️ 训诂 | ["表"字的语义演变时间线](./content/02_culture/philology/表字的语义演变时间线.md) | growing |
+| ⚙️ 计算机科学 | [显示设备亮度、对比度与 Alpha 通道调控的物理机制与数学建模](./content/03_engineering/computer_science/显示设备亮度、对比度与Alpha通道调控的物理机制与数学建模.md) | growing |
+
+> 配图均为 SVG 矢量图，由 [scripts/](./scripts/) 中的 Python 脚本参数化生成，可复现、可调整。
+
+## �� 内容声明
 
 本仓库仅收录客观知识与脱敏后的技术分析，不包含任何个人身份信息、网络配置、硬件资产清单或密钥凭证。详见[设计文档 · 内容安全纪律](./docs/design.md#-内容安全纪律)。
