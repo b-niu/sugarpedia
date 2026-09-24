@@ -6,7 +6,7 @@
 
 计划基于 [Quartz 4](https://quartz.jzhao.xyz/) 构建静态站点并发布于 GitHub Pages（尚未初始化，见 [TODO](./TODO.md)）。当前仓库先以纯 Markdown 形式生长内容。
 
-## 📖 导航
+## 一、📖 导航
 
 | 文档 | 内容 |
 |---|---|
@@ -15,7 +15,7 @@
 | [scripts/](./scripts/) | 配图生成等工具脚本 |
 | [TODO](./TODO.md) | 待办清单 |
 
-## 🔗 克隆与子模块
+## 二、🔗 克隆与子模块
 
 ```bash
 # 首次克隆：连子模块一起拉
@@ -33,7 +33,7 @@ git submodule update --remote --merge sugarvault
 
 > **排查提示**：若 `git status` 出现 `modified: sugarvault (modified content)`，说明是子模块**工作区**有未提交改动，不是网络或权限问题。此时 `git submodule update` 无法恢复被删除的文件——HEAD 没变，Git 只会回一句 `Already on 'main'`。正确做法是进子模块执行 `git restore -- .`，再回主仓库确认 `git status` 干净。
 
-## 🗂️ 知识分区
+## 三、🗂️ 知识分区
 
 ```text
 content/
@@ -45,7 +45,7 @@ content/
 └── 06_sources/        📖 溯源库
 ```
 
-## 📚 文章索引
+## 四、📚 文章索引
 
 | 分区 | 文章 | 状态 |
 |---|---|---|
@@ -55,9 +55,10 @@ content/
 | 🌌 数学 | [Normal 的三重含义：正常、法向量与正态分布](./content/01_nature/mathematics/Normal的三重含义：正常、法向量与正态分布.md) | growing |
 | 🏛️ 训诂 | ["表"字的语义演变时间线](./content/02_culture/philology/表字的语义演变时间线.md) | growing |
 | ⚙️ 计算机科学 | [显示设备亮度、对比度与 Alpha 通道调控的物理机制与数学建模](./content/03_engineering/computer_science/显示设备亮度、对比度与Alpha通道调控的物理机制与数学建模.md) | growing |
+| ⚙️ 计算机科学 | [扫描仪三参数：亮度、对比度与伽马的点运算](./content/03_engineering/computer_science/扫描仪三参数：亮度、对比度与伽马的点运算.md) | growing |
 
 > 配图均为 SVG 矢量图，由 [scripts/](./scripts/) 中的 Python 脚本参数化生成，可复现、可调整。
 
-## 🔒 内容声明
+## 五、🔒 内容声明
 
-本仓库仅收录客观知识与脱敏后的技术分析，不包含任何个人身份信息、网络配置、硬件资产清单或密钥凭证。详见[设计文档 · 内容安全纪律](./docs/design.md#-内容安全纪律)。
+本仓库仅收录客观知识与脱敏后的技术分析，不包含任何个人身份信息、网络配置、硬件资产清单或密钥凭证。详见[设计文档](./docs/design.md)的"🔒 内容安全纪律"一节。
