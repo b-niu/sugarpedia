@@ -54,6 +54,7 @@ content/
 | 🌌 天文 | [行星的奇妙"转向"：南北极、不变平面与那些"躺倒"的行星](./content/01_nature/astronomy/行星的奇妙转向：南北极、不变平面与躺倒的行星.md) | growing |
 | 🏛️ 训诂 | [Normal 的四重含义：正常、法向量、正态分布与师范](./content/02_culture/philology/Normal的四重含义：正常、法向量、正态分布与师范.md) | growing |
 | 🏛️ 训诂 | [fast 的三个身份：牢固、快捷与斋戒](./content/02_culture/philology/fast的三个身份：牢固、快捷与斋戒.md) | growing |
+| 🏛️ 训诂 | [naïve 头上的两个点：分音符、法语与"天真"的来历](./content/02_culture/philology/naive头上的两个点：分音符、法语与天真的来历.md) | growing |
 | 🏛️ 训诂 | ["表"字的语义演变时间线](./content/02_culture/philology/表字的语义演变时间线.md) | growing |
 | ⚙️ 计算机科学 | [显示设备亮度、对比度与 Alpha 通道调控的物理机制与数学建模](./content/03_engineering/computer_science/显示设备亮度、对比度与Alpha通道调控的物理机制与数学建模.md) | growing |
 | ⚙️ 计算机科学 | [扫描仪三参数：亮度、对比度与伽马的点运算](./content/03_engineering/computer_science/扫描仪三参数：亮度、对比度与伽马的点运算.md) | growing |
