@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" font-family="sans-serif">
+<rect width="640" height="360" fill="white"/>
+<text x="320.0" y="24" text-anchor="middle" font-size="15" font-weight="bold" fill="#333">安德森的判断：铅板减速 + 磁场偏转，暴露粒子的来向与电荷</text>
+<rect x="60" y="40" width="520" height="280" fill="#f7fafc" stroke="#888" stroke-width="1.5" rx="6"/>
+<rect x="80" y="170" width="480" height="20" fill="#9aa5b1"/>
+<text x="560" y="184" font-size="12" fill="#555" text-anchor="end">铅板（穿越即减速）</text>
+<circle cx="100" cy="70" r="7" fill="none" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="95.5" y1="65.5" x2="104.5" y2="74.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="95.5" y1="74.5" x2="104.5" y2="65.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<circle cx="100" cy="130" r="7" fill="none" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="95.5" y1="125.5" x2="104.5" y2="134.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="95.5" y1="134.5" x2="104.5" y2="125.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<circle cx="100" cy="230" r="7" fill="none" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="95.5" y1="225.5" x2="104.5" y2="234.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="95.5" y1="234.5" x2="104.5" y2="225.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<circle cx="100" cy="290" r="7" fill="none" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="95.5" y1="285.5" x2="104.5" y2="294.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="95.5" y1="294.5" x2="104.5" y2="285.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<circle cx="180" cy="70" r="7" fill="none" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="175.5" y1="65.5" x2="184.5" y2="74.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="175.5" y1="74.5" x2="184.5" y2="65.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<circle cx="180" cy="130" r="7" fill="none" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="175.5" y1="125.5" x2="184.5" y2="134.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="175.5" y1="134.5" x2="184.5" y2="125.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<circle cx="180" cy="230" r="7" fill="none" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="175.5" y1="225.5" x2="184.5" y2="234.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="175.5" y1="234.5" x2="184.5" y2="225.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<circle cx="180" cy="290" r="7" fill="none" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="175.5" y1="285.5" x2="184.5" y2="294.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="175.5" y1="294.5" x2="184.5" y2="285.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<circle cx="260" cy="70" r="7" fill="none" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="255.5" y1="65.5" x2="264.5" y2="74.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="255.5" y1="74.5" x2="264.5" y2="65.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<circle cx="260" cy="130" r="7" fill="none" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="255.5" y1="125.5" x2="264.5" y2="134.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="255.5" y1="134.5" x2="264.5" y2="125.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<circle cx="260" cy="230" r="7" fill="none" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="255.5" y1="225.5" x2="264.5" y2="234.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="255.5" y1="234.5" x2="264.5" y2="225.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<circle cx="260" cy="290" r="7" fill="none" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="255.5" y1="285.5" x2="264.5" y2="294.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="255.5" y1="294.5" x2="264.5" y2="285.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<circle cx="340" cy="70" r="7" fill="none" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="335.5" y1="65.5" x2="344.5" y2="74.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="335.5" y1="74.5" x2="344.5" y2="65.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<circle cx="340" cy="130" r="7" fill="none" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="335.5" y1="125.5" x2="344.5" y2="134.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="335.5" y1="134.5" x2="344.5" y2="125.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<circle cx="340" cy="230" r="7" fill="none" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="335.5" y1="225.5" x2="344.5" y2="234.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="335.5" y1="234.5" x2="344.5" y2="225.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<circle cx="340" cy="290" r="7" fill="none" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="335.5" y1="285.5" x2="344.5" y2="294.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="335.5" y1="294.5" x2="344.5" y2="285.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<circle cx="420" cy="70" r="7" fill="none" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="415.5" y1="65.5" x2="424.5" y2="74.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="415.5" y1="74.5" x2="424.5" y2="65.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<circle cx="420" cy="130" r="7" fill="none" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="415.5" y1="125.5" x2="424.5" y2="134.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="415.5" y1="134.5" x2="424.5" y2="125.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<circle cx="420" cy="230" r="7" fill="none" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="415.5" y1="225.5" x2="424.5" y2="234.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="415.5" y1="234.5" x2="424.5" y2="225.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<circle cx="420" cy="290" r="7" fill="none" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="415.5" y1="285.5" x2="424.5" y2="294.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="415.5" y1="294.5" x2="424.5" y2="285.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<circle cx="500" cy="70" r="7" fill="none" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="495.5" y1="65.5" x2="504.5" y2="74.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="495.5" y1="74.5" x2="504.5" y2="65.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<circle cx="500" cy="130" r="7" fill="none" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="495.5" y1="125.5" x2="504.5" y2="134.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="495.5" y1="134.5" x2="504.5" y2="125.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<circle cx="500" cy="230" r="7" fill="none" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="495.5" y1="225.5" x2="504.5" y2="234.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="495.5" y1="234.5" x2="504.5" y2="225.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<circle cx="500" cy="290" r="7" fill="none" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="495.5" y1="285.5" x2="504.5" y2="294.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<line x1="495.5" y1="294.5" x2="504.5" y2="285.5" stroke="#b0b8c1" stroke-width="1.2"/>
+<text x="70" y="56" font-size="11.5" fill="#889">磁场方向：垂直纸面向里</text>
+<path d="M 300 300 Q 300 215 380 150 Q 440 105 520 92" fill="none" stroke="#d62728" stroke-width="2.6"/>
+<path d="M 520 92 Q 440 105 380 150 Q 300 215 300 300" fill="none" stroke="#4c86c6" stroke-width="2" stroke-dasharray="6,5"/>
+<text x="252" y="316" font-size="12.5" fill="#d62728" font-weight="bold">下方弯得急 = 速度慢</text>
+<text x="470" y="80" font-size="12.5" fill="#d62728" font-weight="bold">上方弯得缓 = 速度快</text>
+<text x="320.0" y="344" text-anchor="middle" font-size="12.5" fill="#555">结论：粒子自下而上飞行，偏转方向显示电荷为正——这就是正电子（蓝虚线为"自上而下"的误判方向）</text>
+</svg>
