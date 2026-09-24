@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 514" width="720" height="514" font-family="Segoe UI, Microsoft YaHei, Helvetica, Arial, sans-serif"><rect width="720" height="514" fill="white"/>
+<text x="360.0" y="28.0" font-size="16" fill="#2B2B2B" text-anchor="middle" font-weight="bold">常见诗人与文学家的在世年代与最高官职</text>
+<text x="360.0" y="50.0" font-size="12" fill="#5A5A5A" text-anchor="middle">色块为生卒区间；右侧为史书所载最高官职，颜色按等第分组</text>
+<path d="M 119.90697674418604 64 L 119.90697674418604 472" fill="none" stroke="#EDEDED" stroke-width="1"/>
+<text x="119.9" y="490.0" font-size="12" fill="#5A5A5A" text-anchor="middle">660</text>
+<path d="M 183.16279069767444 64 L 183.16279069767444 472" fill="none" stroke="#EDEDED" stroke-width="1"/>
+<text x="183.2" y="490.0" font-size="12" fill="#5A5A5A" text-anchor="middle">700</text>
+<path d="M 246.41860465116278 64 L 246.41860465116278 472" fill="none" stroke="#EDEDED" stroke-width="1"/>
+<text x="246.4" y="490.0" font-size="12" fill="#5A5A5A" text-anchor="middle">740</text>
+<path d="M 309.6744186046511 64 L 309.6744186046511 472" fill="none" stroke="#EDEDED" stroke-width="1"/>
+<text x="309.7" y="490.0" font-size="12" fill="#5A5A5A" text-anchor="middle">780</text>
+<path d="M 372.93023255813955 64 L 372.93023255813955 472" fill="none" stroke="#EDEDED" stroke-width="1"/>
+<text x="372.9" y="490.0" font-size="12" fill="#5A5A5A" text-anchor="middle">820</text>
+<path d="M 436.1860465116279 64 L 436.1860465116279 472" fill="none" stroke="#EDEDED" stroke-width="1"/>
+<text x="436.2" y="490.0" font-size="12" fill="#5A5A5A" text-anchor="middle">860</text>
+<text x="16.0" y="100.5" font-size="12.5" fill="#2B2B2B" font-weight="bold">贺知章</text>
+<rect x="118.3" y="89.0" width="134.4" height="14" rx="7" fill="#0072B2" fill-opacity="0.30" stroke="#0072B2" stroke-width="1.4"/>
+<text x="462.0" y="100.5" font-size="12" fill="#0072B2">秘书监、太子宾客（正三品）</text>
+<text x="16.0" y="124.5" font-size="12.5" fill="#2B2B2B" font-weight="bold">陈子昂</text>
+<rect x="121.5" y="113.0" width="64.8" height="14" rx="7" fill="#AFAFAF" fill-opacity="0.30" stroke="#AFAFAF" stroke-width="1.4"/>
+<text x="462.0" y="124.5" font-size="12" fill="#AFAFAF">右拾遗（从八品上）</text>
+<text x="16.0" y="148.5" font-size="12.5" fill="#2B2B2B" font-weight="bold">张说</text>
+<rect x="131.0" y="137.0" width="99.6" height="14" rx="7" fill="#D55E00" fill-opacity="0.30" stroke="#D55E00" stroke-width="1.4"/>
+<text x="462.0" y="148.5" font-size="12" fill="#D55E00">中书令（宰相），封燕国公</text>
+<text x="16.0" y="172.5" font-size="12.5" fill="#2B2B2B" font-weight="bold">张九龄</text>
+<rect x="148.4" y="161.0" width="98.0" height="14" rx="7" fill="#D55E00" fill-opacity="0.30" stroke="#D55E00" stroke-width="1.4"/>
+<text x="462.0" y="172.5" font-size="12" fill="#D55E00">尚书右丞相（从二品）</text>
+<text x="16.0" y="196.5" font-size="12.5" fill="#2B2B2B" font-weight="bold">王维</text>
+<rect x="184.7" y="185.0" width="94.9" height="14" rx="7" fill="#56B4E9" fill-opacity="0.30" stroke="#56B4E9" stroke-width="1.4"/>
+<text x="462.0" y="196.5" font-size="12" fill="#56B4E9">尚书右丞（正四品下）</text>
+<text x="16.0" y="220.5" font-size="12.5" fill="#2B2B2B" font-weight="bold">李白</text>
+<rect x="184.7" y="209.0" width="96.5" height="14" rx="7" fill="#AFAFAF" fill-opacity="0.30" stroke="#AFAFAF" stroke-width="1.4"/>
+<text x="462.0" y="220.5" font-size="12" fill="#AFAFAF">翰林供奉（无品秩）</text>
+<text x="16.0" y="244.5" font-size="12.5" fill="#2B2B2B" font-weight="bold">高适</text>
+<rect x="189.5" y="233.0" width="96.5" height="14" rx="7" fill="#0072B2" fill-opacity="0.30" stroke="#0072B2" stroke-width="1.4"/>
+<text x="462.0" y="244.5" font-size="12" fill="#0072B2">左散骑常侍（正三品）</text>
+<text x="16.0" y="268.5" font-size="12.5" fill="#2B2B2B" font-weight="bold">杜甫</text>
+<rect x="202.1" y="257.0" width="91.7" height="14" rx="7" fill="#AFAFAF" fill-opacity="0.30" stroke="#AFAFAF" stroke-width="1.4"/>
+<text x="462.0" y="268.5" font-size="12" fill="#AFAFAF">检校工部员外郎（从六品上）</text>
+<text x="16.0" y="292.5" font-size="12.5" fill="#2B2B2B" font-weight="bold">岑参</text>
+<rect x="206.9" y="281.0" width="87.0" height="14" rx="7" fill="#56B4E9" fill-opacity="0.30" stroke="#56B4E9" stroke-width="1.4"/>
+<text x="462.0" y="292.5" font-size="12" fill="#56B4E9">嘉州刺史</text>
+<text x="16.0" y="316.5" font-size="12.5" fill="#2B2B2B" font-weight="bold">韩愈</text>
+<rect x="290.7" y="305.0" width="88.6" height="14" rx="7" fill="#0072B2" fill-opacity="0.30" stroke="#0072B2" stroke-width="1.4"/>
+<text x="462.0" y="316.5" font-size="12" fill="#0072B2">京兆尹（从三品）</text>
+<text x="16.0" y="340.5" font-size="12.5" fill="#2B2B2B" font-weight="bold">白居易</text>
+<rect x="297.0" y="329.0" width="117.0" height="14" rx="7" fill="#D55E00" fill-opacity="0.30" stroke="#D55E00" stroke-width="1.4"/>
+<text x="462.0" y="340.5" font-size="12" fill="#D55E00">太子少傅（正二品）</text>
+<text x="16.0" y="364.5" font-size="12.5" fill="#2B2B2B" font-weight="bold">刘禹锡</text>
+<rect x="297.0" y="353.0" width="110.7" height="14" rx="7" fill="#0072B2" fill-opacity="0.30" stroke="#0072B2" stroke-width="1.4"/>
+<text x="462.0" y="364.5" font-size="12" fill="#0072B2">太子宾客（正三品）</text>
+<text x="16.0" y="388.5" font-size="12.5" fill="#2B2B2B" font-weight="bold">李绅</text>
+<rect x="297.0" y="377.0" width="117.0" height="14" rx="7" fill="#D55E00" fill-opacity="0.30" stroke="#D55E00" stroke-width="1.4"/>
+<text x="462.0" y="388.5" font-size="12" fill="#D55E00">尚书右仆射（从二品）</text>
+<text x="16.0" y="412.5" font-size="12.5" fill="#2B2B2B" font-weight="bold">柳宗元</text>
+<rect x="298.6" y="401.0" width="72.7" height="14" rx="7" fill="#56B4E9" fill-opacity="0.30" stroke="#56B4E9" stroke-width="1.4"/>
+<text x="462.0" y="412.5" font-size="12" fill="#56B4E9">柳州刺史</text>
+<text x="16.0" y="436.5" font-size="12.5" fill="#2B2B2B" font-weight="bold">元稹</text>
+<rect x="308.1" y="425.0" width="82.2" height="14" rx="7" fill="#D55E00" fill-opacity="0.30" stroke="#D55E00" stroke-width="1.4"/>
+<text x="462.0" y="436.5" font-size="12" fill="#D55E00">同中书门下平章事（宰相）</text>
+<text x="16.0" y="460.5" font-size="12.5" fill="#2B2B2B" font-weight="bold">杜牧</text>
+<rect x="346.0" y="449.0" width="77.5" height="14" rx="7" fill="#56B4E9" fill-opacity="0.30" stroke="#56B4E9" stroke-width="1.4"/>
+<text x="462.0" y="460.5" font-size="12" fill="#56B4E9">中书舍人（正五品上）</text>
+<rect x="16" y="492" width="22" height="11" rx="5.5" fill="#D55E00" fill-opacity="0.30" stroke="#D55E00" stroke-width="1.2"/>
+<text x="44.0" y="502.0" font-size="12" fill="#5A5A5A">二品以上或宰相</text>
+<rect x="152" y="492" width="22" height="11" rx="5.5" fill="#0072B2" fill-opacity="0.30" stroke="#0072B2" stroke-width="1.2"/>
+<text x="180.0" y="502.0" font-size="12" fill="#5A5A5A">三品</text>
+<rect x="226" y="492" width="22" height="11" rx="5.5" fill="#56B4E9" fill-opacity="0.30" stroke="#56B4E9" stroke-width="1.2"/>
+<text x="254.0" y="502.0" font-size="12" fill="#5A5A5A">四至六品</text>
+<rect x="325" y="492" width="22" height="11" rx="5.5" fill="#AFAFAF" fill-opacity="0.30" stroke="#AFAFAF" stroke-width="1.2"/>
+<text x="353.0" y="502.0" font-size="12" fill="#5A5A5A">七品以下、无品秩或未仕</text>
+</svg>
