@@ -1,0 +1,3 @@
+[submodule "sugarvault"]
+	path = sugarvault
+	url = https://github.com/b-niu/sugarvault.git
