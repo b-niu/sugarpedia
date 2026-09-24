@@ -4,7 +4,7 @@
 >
 > 原则：**知识无边界，弱目录结构，强节点链接。**
 
-基于 [Quartz 4](https://quartz.jzhao.xyz/) 构建，发布于 GitHub Pages。
+计划基于 [Quartz 4](https://quartz.jzhao.xyz/) 构建静态站点并发布于 GitHub Pages（尚未初始化，见 [TODO](./TODO.md)）。当前仓库先以纯 Markdown 形式生长内容。
 
 ## 📖 导航
 
