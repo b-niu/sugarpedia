@@ -1,110 +1,119 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 342" width="860" height="342" font-family="sans-serif">
-<rect width="860" height="342" fill="white"/>
-<text x="430.0" y="22" text-anchor="middle" font-size="15" font-weight="bold" fill="#333">截断与溢出：细节是如何丢失的</text>
-<rect x="24" y="34" width="44" height="44" fill="rgb(0,0,0)" stroke="#999" stroke-width="0.5"/>
-<text x="46.0" y="72" text-anchor="middle" font-size="10" fill="#fff">0</text>
-<rect x="72" y="34" width="44" height="44" fill="rgb(16,16,16)" stroke="#999" stroke-width="0.5"/>
-<text x="94.0" y="72" text-anchor="middle" font-size="10" fill="#fff">16</text>
-<rect x="120" y="34" width="44" height="44" fill="rgb(32,32,32)" stroke="#999" stroke-width="0.5"/>
-<text x="142.0" y="72" text-anchor="middle" font-size="10" fill="#fff">32</text>
-<rect x="168" y="34" width="44" height="44" fill="rgb(48,48,48)" stroke="#999" stroke-width="0.5"/>
-<text x="190.0" y="72" text-anchor="middle" font-size="10" fill="#fff">48</text>
-<rect x="216" y="34" width="44" height="44" fill="rgb(64,64,64)" stroke="#999" stroke-width="0.5"/>
-<text x="238.0" y="72" text-anchor="middle" font-size="10" fill="#fff">64</text>
-<rect x="264" y="34" width="44" height="44" fill="rgb(80,80,80)" stroke="#999" stroke-width="0.5"/>
-<text x="286.0" y="72" text-anchor="middle" font-size="10" fill="#fff">80</text>
-<rect x="312" y="34" width="44" height="44" fill="rgb(96,96,96)" stroke="#999" stroke-width="0.5"/>
-<text x="334.0" y="72" text-anchor="middle" font-size="10" fill="#fff">96</text>
-<rect x="360" y="34" width="44" height="44" fill="rgb(112,112,112)" stroke="#999" stroke-width="0.5"/>
-<text x="382.0" y="72" text-anchor="middle" font-size="10" fill="#fff">112</text>
-<rect x="408" y="34" width="44" height="44" fill="rgb(128,128,128)" stroke="#999" stroke-width="0.5"/>
-<text x="430.0" y="72" text-anchor="middle" font-size="10" fill="#333">128</text>
-<rect x="456" y="34" width="44" height="44" fill="rgb(143,143,143)" stroke="#999" stroke-width="0.5"/>
-<text x="478.0" y="72" text-anchor="middle" font-size="10" fill="#333">143</text>
-<rect x="504" y="34" width="44" height="44" fill="rgb(159,159,159)" stroke="#999" stroke-width="0.5"/>
-<text x="526.0" y="72" text-anchor="middle" font-size="10" fill="#333">159</text>
-<rect x="552" y="34" width="44" height="44" fill="rgb(175,175,175)" stroke="#999" stroke-width="0.5"/>
-<text x="574.0" y="72" text-anchor="middle" font-size="10" fill="#333">175</text>
-<rect x="600" y="34" width="44" height="44" fill="rgb(191,191,191)" stroke="#999" stroke-width="0.5"/>
-<text x="622.0" y="72" text-anchor="middle" font-size="10" fill="#333">191</text>
-<rect x="648" y="34" width="44" height="44" fill="rgb(207,207,207)" stroke="#999" stroke-width="0.5"/>
-<text x="670.0" y="72" text-anchor="middle" font-size="10" fill="#333">207</text>
-<rect x="696" y="34" width="44" height="44" fill="rgb(223,223,223)" stroke="#999" stroke-width="0.5"/>
-<text x="718.0" y="72" text-anchor="middle" font-size="10" fill="#333">223</text>
-<rect x="744" y="34" width="44" height="44" fill="rgb(239,239,239)" stroke="#999" stroke-width="0.5"/>
-<text x="766.0" y="72" text-anchor="middle" font-size="10" fill="#333">239</text>
-<rect x="792" y="34" width="44" height="44" fill="rgb(255,255,255)" stroke="#999" stroke-width="0.5"/>
-<text x="814.0" y="72" text-anchor="middle" font-size="10" fill="#333">255</text>
-<text x="24" y="98" font-size="12.5" fill="#333">① 理想显示：全灰阶平滑呈现，暗部与高光都有细节</text>
-<rect x="24" y="124" width="44" height="44" fill="rgb(0,0,0)" stroke="#999" stroke-width="0.5"/>
-<text x="46.0" y="162" text-anchor="middle" font-size="10" fill="#fff">0</text>
-<rect x="72" y="124" width="44" height="44" fill="rgb(0,0,0)" stroke="#999" stroke-width="0.5"/>
-<text x="94.0" y="162" text-anchor="middle" font-size="10" fill="#fff">16</text>
-<rect x="120" y="124" width="44" height="44" fill="rgb(32,32,32)" stroke="#999" stroke-width="0.5"/>
-<text x="142.0" y="162" text-anchor="middle" font-size="10" fill="#fff">32</text>
-<rect x="168" y="124" width="44" height="44" fill="rgb(48,48,48)" stroke="#999" stroke-width="0.5"/>
-<text x="190.0" y="162" text-anchor="middle" font-size="10" fill="#fff">48</text>
-<rect x="216" y="124" width="44" height="44" fill="rgb(64,64,64)" stroke="#999" stroke-width="0.5"/>
-<text x="238.0" y="162" text-anchor="middle" font-size="10" fill="#fff">64</text>
-<rect x="264" y="124" width="44" height="44" fill="rgb(80,80,80)" stroke="#999" stroke-width="0.5"/>
-<text x="286.0" y="162" text-anchor="middle" font-size="10" fill="#fff">80</text>
-<rect x="312" y="124" width="44" height="44" fill="rgb(96,96,96)" stroke="#999" stroke-width="0.5"/>
-<text x="334.0" y="162" text-anchor="middle" font-size="10" fill="#fff">96</text>
-<rect x="360" y="124" width="44" height="44" fill="rgb(112,112,112)" stroke="#999" stroke-width="0.5"/>
-<text x="382.0" y="162" text-anchor="middle" font-size="10" fill="#fff">112</text>
-<rect x="408" y="124" width="44" height="44" fill="rgb(128,128,128)" stroke="#999" stroke-width="0.5"/>
-<text x="430.0" y="162" text-anchor="middle" font-size="10" fill="#333">128</text>
-<rect x="456" y="124" width="44" height="44" fill="rgb(143,143,143)" stroke="#999" stroke-width="0.5"/>
-<text x="478.0" y="162" text-anchor="middle" font-size="10" fill="#333">143</text>
-<rect x="504" y="124" width="44" height="44" fill="rgb(159,159,159)" stroke="#999" stroke-width="0.5"/>
-<text x="526.0" y="162" text-anchor="middle" font-size="10" fill="#333">159</text>
-<rect x="552" y="124" width="44" height="44" fill="rgb(175,175,175)" stroke="#999" stroke-width="0.5"/>
-<text x="574.0" y="162" text-anchor="middle" font-size="10" fill="#333">175</text>
-<rect x="600" y="124" width="44" height="44" fill="rgb(191,191,191)" stroke="#999" stroke-width="0.5"/>
-<text x="622.0" y="162" text-anchor="middle" font-size="10" fill="#333">191</text>
-<rect x="648" y="124" width="44" height="44" fill="rgb(207,207,207)" stroke="#999" stroke-width="0.5"/>
-<text x="670.0" y="162" text-anchor="middle" font-size="10" fill="#333">207</text>
-<rect x="696" y="124" width="44" height="44" fill="rgb(223,223,223)" stroke="#999" stroke-width="0.5"/>
-<text x="718.0" y="162" text-anchor="middle" font-size="10" fill="#333">223</text>
-<rect x="744" y="124" width="44" height="44" fill="rgb(239,239,239)" stroke="#999" stroke-width="0.5"/>
-<text x="766.0" y="162" text-anchor="middle" font-size="10" fill="#333">239</text>
-<rect x="792" y="124" width="44" height="44" fill="rgb(255,255,255)" stroke="#999" stroke-width="0.5"/>
-<text x="814.0" y="162" text-anchor="middle" font-size="10" fill="#333">255</text>
-<text x="24" y="188" font-size="12.5" fill="#333">② 暗部截断（压黑/Black Crush）：代码 ≤16 全部塌成纯黑</text>
-<rect x="24" y="214" width="44" height="44" fill="rgb(0,0,0)" stroke="#999" stroke-width="0.5"/>
-<text x="46.0" y="252" text-anchor="middle" font-size="10" fill="#fff">0</text>
-<rect x="72" y="214" width="44" height="44" fill="rgb(16,16,16)" stroke="#999" stroke-width="0.5"/>
-<text x="94.0" y="252" text-anchor="middle" font-size="10" fill="#fff">16</text>
-<rect x="120" y="214" width="44" height="44" fill="rgb(32,32,32)" stroke="#999" stroke-width="0.5"/>
-<text x="142.0" y="252" text-anchor="middle" font-size="10" fill="#fff">32</text>
-<rect x="168" y="214" width="44" height="44" fill="rgb(48,48,48)" stroke="#999" stroke-width="0.5"/>
-<text x="190.0" y="252" text-anchor="middle" font-size="10" fill="#fff">48</text>
-<rect x="216" y="214" width="44" height="44" fill="rgb(64,64,64)" stroke="#999" stroke-width="0.5"/>
-<text x="238.0" y="252" text-anchor="middle" font-size="10" fill="#fff">64</text>
-<rect x="264" y="214" width="44" height="44" fill="rgb(80,80,80)" stroke="#999" stroke-width="0.5"/>
-<text x="286.0" y="252" text-anchor="middle" font-size="10" fill="#fff">80</text>
-<rect x="312" y="214" width="44" height="44" fill="rgb(96,96,96)" stroke="#999" stroke-width="0.5"/>
-<text x="334.0" y="252" text-anchor="middle" font-size="10" fill="#fff">96</text>
-<rect x="360" y="214" width="44" height="44" fill="rgb(112,112,112)" stroke="#999" stroke-width="0.5"/>
-<text x="382.0" y="252" text-anchor="middle" font-size="10" fill="#fff">112</text>
-<rect x="408" y="214" width="44" height="44" fill="rgb(128,128,128)" stroke="#999" stroke-width="0.5"/>
-<text x="430.0" y="252" text-anchor="middle" font-size="10" fill="#333">128</text>
-<rect x="456" y="214" width="44" height="44" fill="rgb(143,143,143)" stroke="#999" stroke-width="0.5"/>
-<text x="478.0" y="252" text-anchor="middle" font-size="10" fill="#333">143</text>
-<rect x="504" y="214" width="44" height="44" fill="rgb(159,159,159)" stroke="#999" stroke-width="0.5"/>
-<text x="526.0" y="252" text-anchor="middle" font-size="10" fill="#333">159</text>
-<rect x="552" y="214" width="44" height="44" fill="rgb(175,175,175)" stroke="#999" stroke-width="0.5"/>
-<text x="574.0" y="252" text-anchor="middle" font-size="10" fill="#333">175</text>
-<rect x="600" y="214" width="44" height="44" fill="rgb(191,191,191)" stroke="#999" stroke-width="0.5"/>
-<text x="622.0" y="252" text-anchor="middle" font-size="10" fill="#333">191</text>
-<rect x="648" y="214" width="44" height="44" fill="rgb(207,207,207)" stroke="#999" stroke-width="0.5"/>
-<text x="670.0" y="252" text-anchor="middle" font-size="10" fill="#333">207</text>
-<rect x="696" y="214" width="44" height="44" fill="rgb(223,223,223)" stroke="#999" stroke-width="0.5"/>
-<text x="718.0" y="252" text-anchor="middle" font-size="10" fill="#333">223</text>
-<rect x="744" y="214" width="44" height="44" fill="rgb(255,255,255)" stroke="#999" stroke-width="0.5"/>
-<text x="766.0" y="252" text-anchor="middle" font-size="10" fill="#333">239</text>
-<rect x="792" y="214" width="44" height="44" fill="rgb(255,255,255)" stroke="#999" stroke-width="0.5"/>
-<text x="814.0" y="252" text-anchor="middle" font-size="10" fill="#333">255</text>
-<text x="24" y="278" font-size="12.5" fill="#333">③ 高光截断（过曝/Clipping）：代码 ≥235 全部顶成纯白</text>
-<text x="24" y="334" font-size="12" fill="#666">色块内数字 = 输入灰阶代码（0=纯黑，255=纯白）。②③中被打平的区域，原始的层次差异在输出端彻底消失，无法恢复。</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 536" width="1100" height="536" font-family="Segoe UI, Microsoft YaHei, Helvetica, Arial, sans-serif">
+<rect width="1100" height="536" fill="#FFFFFF"/>
+<text x="550.0" y="32.0" font-size="16" fill="#2B2B2B" text-anchor="middle" font-weight="bold">截断与溢出：灰阶层次是如何丢失的</text>
+<rect x="22.0" y="64.0" width="4" height="56" rx="2" fill="#009E73"/>
+<text x="38.0" y="54.0" font-size="12.5" fill="#2B2B2B">① 理想呈现：全灰阶平滑过渡，暗部与高光都保留层次</text>
+<rect x="38.0" y="64.0" width="56" height="56" rx="3" fill="rgb(0,0,0)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="66.0" y="96.5" font-size="12" fill="#FFFFFF" text-anchor="middle">0</text>
+<rect x="99.0" y="64.0" width="56" height="56" rx="3" fill="rgb(16,16,16)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="127.0" y="96.5" font-size="12" fill="#FFFFFF" text-anchor="middle">16</text>
+<rect x="160.0" y="64.0" width="56" height="56" rx="3" fill="rgb(32,32,32)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="188.0" y="96.5" font-size="12" fill="#FFFFFF" text-anchor="middle">32</text>
+<rect x="221.0" y="64.0" width="56" height="56" rx="3" fill="rgb(48,48,48)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="249.0" y="96.5" font-size="12" fill="#FFFFFF" text-anchor="middle">48</text>
+<rect x="282.0" y="64.0" width="56" height="56" rx="3" fill="rgb(64,64,64)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="310.0" y="96.5" font-size="12" fill="#FFFFFF" text-anchor="middle">64</text>
+<rect x="343.0" y="64.0" width="56" height="56" rx="3" fill="rgb(80,80,80)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="371.0" y="96.5" font-size="12" fill="#FFFFFF" text-anchor="middle">80</text>
+<rect x="404.0" y="64.0" width="56" height="56" rx="3" fill="rgb(96,96,96)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="432.0" y="96.5" font-size="12" fill="#FFFFFF" text-anchor="middle">96</text>
+<rect x="465.0" y="64.0" width="56" height="56" rx="3" fill="rgb(112,112,112)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="493.0" y="96.5" font-size="12" fill="#FFFFFF" text-anchor="middle">112</text>
+<rect x="526.0" y="64.0" width="56" height="56" rx="3" fill="rgb(128,128,128)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="554.0" y="96.5" font-size="12" fill="#FFFFFF" text-anchor="middle">128</text>
+<rect x="587.0" y="64.0" width="56" height="56" rx="3" fill="rgb(143,143,143)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="615.0" y="96.5" font-size="12" fill="#2B2B2B" text-anchor="middle">143</text>
+<rect x="648.0" y="64.0" width="56" height="56" rx="3" fill="rgb(159,159,159)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="676.0" y="96.5" font-size="12" fill="#2B2B2B" text-anchor="middle">159</text>
+<rect x="709.0" y="64.0" width="56" height="56" rx="3" fill="rgb(175,175,175)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="737.0" y="96.5" font-size="12" fill="#2B2B2B" text-anchor="middle">175</text>
+<rect x="770.0" y="64.0" width="56" height="56" rx="3" fill="rgb(191,191,191)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="798.0" y="96.5" font-size="12" fill="#2B2B2B" text-anchor="middle">191</text>
+<rect x="831.0" y="64.0" width="56" height="56" rx="3" fill="rgb(207,207,207)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="859.0" y="96.5" font-size="12" fill="#2B2B2B" text-anchor="middle">207</text>
+<rect x="892.0" y="64.0" width="56" height="56" rx="3" fill="rgb(223,223,223)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="920.0" y="96.5" font-size="12" fill="#2B2B2B" text-anchor="middle">223</text>
+<rect x="953.0" y="64.0" width="56" height="56" rx="3" fill="rgb(239,239,239)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="981.0" y="96.5" font-size="12" fill="#2B2B2B" text-anchor="middle">239</text>
+<rect x="1014.0" y="64.0" width="56" height="56" rx="3" fill="rgb(255,255,255)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="1042.0" y="96.5" font-size="12" fill="#2B2B2B" text-anchor="middle">255</text>
+<rect x="22.0" y="192.0" width="4" height="56" rx="2" fill="#0072B2"/>
+<text x="38.0" y="182.0" font-size="12.5" fill="#2B2B2B">② 暗部截断（压黑）：代码 ≤16 全部塌成纯黑，暗部层次归零</text>
+<rect x="38.0" y="192.0" width="56" height="56" rx="3" fill="rgb(0,0,0)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="66.0" y="224.5" font-size="12" fill="#FFFFFF" text-anchor="middle">0</text>
+<rect x="99.0" y="192.0" width="56" height="56" rx="3" fill="rgb(0,0,0)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="127.0" y="224.5" font-size="12" fill="#FFFFFF" text-anchor="middle">16</text>
+<rect x="160.0" y="192.0" width="56" height="56" rx="3" fill="rgb(32,32,32)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="188.0" y="224.5" font-size="12" fill="#FFFFFF" text-anchor="middle">32</text>
+<rect x="221.0" y="192.0" width="56" height="56" rx="3" fill="rgb(48,48,48)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="249.0" y="224.5" font-size="12" fill="#FFFFFF" text-anchor="middle">48</text>
+<rect x="282.0" y="192.0" width="56" height="56" rx="3" fill="rgb(64,64,64)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="310.0" y="224.5" font-size="12" fill="#FFFFFF" text-anchor="middle">64</text>
+<rect x="343.0" y="192.0" width="56" height="56" rx="3" fill="rgb(80,80,80)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="371.0" y="224.5" font-size="12" fill="#FFFFFF" text-anchor="middle">80</text>
+<rect x="404.0" y="192.0" width="56" height="56" rx="3" fill="rgb(96,96,96)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="432.0" y="224.5" font-size="12" fill="#FFFFFF" text-anchor="middle">96</text>
+<rect x="465.0" y="192.0" width="56" height="56" rx="3" fill="rgb(112,112,112)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="493.0" y="224.5" font-size="12" fill="#FFFFFF" text-anchor="middle">112</text>
+<rect x="526.0" y="192.0" width="56" height="56" rx="3" fill="rgb(128,128,128)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="554.0" y="224.5" font-size="12" fill="#FFFFFF" text-anchor="middle">128</text>
+<rect x="587.0" y="192.0" width="56" height="56" rx="3" fill="rgb(143,143,143)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="615.0" y="224.5" font-size="12" fill="#2B2B2B" text-anchor="middle">143</text>
+<rect x="648.0" y="192.0" width="56" height="56" rx="3" fill="rgb(159,159,159)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="676.0" y="224.5" font-size="12" fill="#2B2B2B" text-anchor="middle">159</text>
+<rect x="709.0" y="192.0" width="56" height="56" rx="3" fill="rgb(175,175,175)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="737.0" y="224.5" font-size="12" fill="#2B2B2B" text-anchor="middle">175</text>
+<rect x="770.0" y="192.0" width="56" height="56" rx="3" fill="rgb(191,191,191)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="798.0" y="224.5" font-size="12" fill="#2B2B2B" text-anchor="middle">191</text>
+<rect x="831.0" y="192.0" width="56" height="56" rx="3" fill="rgb(207,207,207)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="859.0" y="224.5" font-size="12" fill="#2B2B2B" text-anchor="middle">207</text>
+<rect x="892.0" y="192.0" width="56" height="56" rx="3" fill="rgb(223,223,223)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="920.0" y="224.5" font-size="12" fill="#2B2B2B" text-anchor="middle">223</text>
+<rect x="953.0" y="192.0" width="56" height="56" rx="3" fill="rgb(239,239,239)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="981.0" y="224.5" font-size="12" fill="#2B2B2B" text-anchor="middle">239</text>
+<rect x="1014.0" y="192.0" width="56" height="56" rx="3" fill="rgb(255,255,255)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="1042.0" y="224.5" font-size="12" fill="#2B2B2B" text-anchor="middle">255</text>
+<line x1="38.0" y1="258.0" x2="155.0" y2="258.0" stroke="#0072B2" stroke-width="3.5" stroke-linecap="round"/>
+<text x="96.5" y="278.0" font-size="12" fill="#0072B2" text-anchor="middle" font-weight="bold">≤16 → 0</text>
+<rect x="22.0" y="320.0" width="4" height="56" rx="2" fill="#D55E00"/>
+<text x="38.0" y="310.0" font-size="12.5" fill="#2B2B2B">③ 高光截断（过曝）：代码 ≥235 全部顶成纯白，高光层次归零</text>
+<rect x="38.0" y="320.0" width="56" height="56" rx="3" fill="rgb(0,0,0)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="66.0" y="352.5" font-size="12" fill="#FFFFFF" text-anchor="middle">0</text>
+<rect x="99.0" y="320.0" width="56" height="56" rx="3" fill="rgb(16,16,16)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="127.0" y="352.5" font-size="12" fill="#FFFFFF" text-anchor="middle">16</text>
+<rect x="160.0" y="320.0" width="56" height="56" rx="3" fill="rgb(32,32,32)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="188.0" y="352.5" font-size="12" fill="#FFFFFF" text-anchor="middle">32</text>
+<rect x="221.0" y="320.0" width="56" height="56" rx="3" fill="rgb(48,48,48)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="249.0" y="352.5" font-size="12" fill="#FFFFFF" text-anchor="middle">48</text>
+<rect x="282.0" y="320.0" width="56" height="56" rx="3" fill="rgb(64,64,64)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="310.0" y="352.5" font-size="12" fill="#FFFFFF" text-anchor="middle">64</text>
+<rect x="343.0" y="320.0" width="56" height="56" rx="3" fill="rgb(80,80,80)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="371.0" y="352.5" font-size="12" fill="#FFFFFF" text-anchor="middle">80</text>
+<rect x="404.0" y="320.0" width="56" height="56" rx="3" fill="rgb(96,96,96)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="432.0" y="352.5" font-size="12" fill="#FFFFFF" text-anchor="middle">96</text>
+<rect x="465.0" y="320.0" width="56" height="56" rx="3" fill="rgb(112,112,112)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="493.0" y="352.5" font-size="12" fill="#FFFFFF" text-anchor="middle">112</text>
+<rect x="526.0" y="320.0" width="56" height="56" rx="3" fill="rgb(128,128,128)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="554.0" y="352.5" font-size="12" fill="#FFFFFF" text-anchor="middle">128</text>
+<rect x="587.0" y="320.0" width="56" height="56" rx="3" fill="rgb(143,143,143)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="615.0" y="352.5" font-size="12" fill="#2B2B2B" text-anchor="middle">143</text>
+<rect x="648.0" y="320.0" width="56" height="56" rx="3" fill="rgb(159,159,159)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="676.0" y="352.5" font-size="12" fill="#2B2B2B" text-anchor="middle">159</text>
+<rect x="709.0" y="320.0" width="56" height="56" rx="3" fill="rgb(175,175,175)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="737.0" y="352.5" font-size="12" fill="#2B2B2B" text-anchor="middle">175</text>
+<rect x="770.0" y="320.0" width="56" height="56" rx="3" fill="rgb(191,191,191)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="798.0" y="352.5" font-size="12" fill="#2B2B2B" text-anchor="middle">191</text>
+<rect x="831.0" y="320.0" width="56" height="56" rx="3" fill="rgb(207,207,207)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="859.0" y="352.5" font-size="12" fill="#2B2B2B" text-anchor="middle">207</text>
+<rect x="892.0" y="320.0" width="56" height="56" rx="3" fill="rgb(223,223,223)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="920.0" y="352.5" font-size="12" fill="#2B2B2B" text-anchor="middle">223</text>
+<rect x="953.0" y="320.0" width="56" height="56" rx="3" fill="rgb(255,255,255)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="981.0" y="352.5" font-size="12" fill="#2B2B2B" text-anchor="middle">239</text>
+<rect x="1014.0" y="320.0" width="56" height="56" rx="3" fill="rgb(255,255,255)" stroke="#8A8A8A" stroke-width="1.3"/>
+<text x="1042.0" y="352.5" font-size="12" fill="#2B2B2B" text-anchor="middle">255</text>
+<line x1="953.0" y1="386.0" x2="1070.0" y2="386.0" stroke="#D55E00" stroke-width="3.5" stroke-linecap="round"/>
+<text x="1011.5" y="406.0" font-size="12" fill="#D55E00" text-anchor="middle" font-weight="bold">≥235 → 255</text>
+<text x="30.0" y="478.0" font-size="12" fill="#5A5A5A">色块内数字为输入代码值（0 = 纯黑，255 = 纯白）。</text>
+<text x="30.0" y="500.0" font-size="12" fill="#5A5A5A">②③ 中被下划线标出的区间，多个输入代码被映射成同一个输出值，</text>
+<text x="30.0" y="522.0" font-size="12" fill="#5A5A5A">原始的层次差异在输出端彻底消失，无法恢复——截断是多对一映射，不存在反函数。</text>
 </svg>
