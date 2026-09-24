@@ -59,6 +59,9 @@ content/
 | 🏛️ 训诂 | ["矮"与"射"没有互换：从甲骨文到楷书的字形证据](./content/02_culture/philology/矮与射没有互换：从甲骨文到楷书的字形证据.md) | growing |
 | 🏛️ 训诂 | [叶音：改字音以求押韵的方法为什么被推翻](./content/02_culture/philology/叶音：改字音以求押韵的方法为什么被推翻.md) | growing |
 | 🏛️ 训诂 | [汉语语音的传承：音在减少、反切与古音重建](./content/02_culture/philology/汉语语音的传承：音在减少、反切与古音重建.md) | growing |
+| 🏛️ 历史 | [唐代官制：四套坐标、宰相头衔与诗人的品级](./content/02_culture/history/唐代官制：四套坐标、宰相头衔与诗人的品级.md) | growing |
+| 🏛️ 历史 | [改名狂魔武则天](./content/02_culture/history/改名狂魔武则天.md) | growing |
+| 🏛️ 历史 | [长安与洛阳的棋盘格：坊市制度、坊名与平安京的模仿](./content/02_culture/history/长安与洛阳的棋盘格：坊市制度、坊名与平安京的模仿.md) | growing |
 | 🏛️ 训诂 | ["表"字的语义演变时间线](./content/02_culture/philology/表字的语义演变时间线.md) | growing |
 | ⚙️ 计算机科学 | [显示设备亮度、对比度与 Alpha 通道调控的物理机制与数学建模](./content/03_engineering/computer_science/显示设备亮度、对比度与Alpha通道调控的物理机制与数学建模.md) | growing |
 | ⚙️ 计算机科学 | [扫描仪三参数：亮度、对比度与伽马的点运算](./content/03_engineering/computer_science/扫描仪三参数：亮度、对比度与伽马的点运算.md) | growing |
