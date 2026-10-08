@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" width="760" height="420" font-family="sans-serif">
+<rect width="760" height="420" fill="white"/>
+<text x="380.0" y="26" text-anchor="middle" font-size="15" font-weight="bold" fill="#333">"超"的语义时间线：一个词根，五个时期，四条支线</text>
+<line x1="120" y1="55" x2="120" y2="385" stroke="#8a6d1f" stroke-width="2.4"/>
+<polygon points="114,385 126,385 120,396" fill="#8a6d1f"/>
+<circle cx="120" cy="75" r="5" fill="#d9a441"/>
+<text x="106" y="80" text-anchor="end" font-size="13" font-weight="bold" fill="#333">先秦</text>
+<rect x="138" y="58" width="560" height="34" rx="7" fill="#d9a441" fill-opacity="0.12" stroke="#d9a441" stroke-width="1.4"/>
+<text x="152" y="80" font-size="13" fill="#333">本义：跳、跃上（《左传》超乘 ·《孟子》超北海）</text>
+<circle cx="120" cy="140" r="5" fill="#c9b06a"/>
+<text x="106" y="145" text-anchor="end" font-size="13" font-weight="bold" fill="#333">两汉</text>
+<rect x="138" y="123" width="560" height="34" rx="7" fill="#c9b06a" fill-opacity="0.12" stroke="#c9b06a" stroke-width="1.4"/>
+<text x="152" y="145" font-size="13" fill="#333">越过 → 超出、超迁（越级提拔，见于汉代公文）</text>
+<circle cx="120" cy="300" r="5" fill="#3d8b7d"/>
+<text x="106" y="305" text-anchor="end" font-size="13" font-weight="bold" fill="#333">20世纪</text>
+<rect x="138" y="283" width="560" height="34" rx="7" fill="#3d8b7d" fill-opacity="0.12" stroke="#3d8b7d" stroke-width="1.4"/>
+<text x="152" y="305" font-size="13" fill="#333">前缀化 → 超级、超声、超导（日语译词与本土引申合流）</text>
+<circle cx="120" cy="350" r="5" fill="#d62728"/>
+<text x="106" y="355" text-anchor="end" font-size="13" font-weight="bold" fill="#333">20世纪</text>
+<rect x="138" y="333" width="560" height="34" rx="7" fill="#d62728" fill-opacity="0.12" stroke="#d62728" stroke-width="1.4"/>
+<text x="152" y="355" font-size="13" fill="#333">入名高峰 → 超字殿后，粤语区尤为常见</text>
+<circle cx="120" cy="205" r="5" fill="#4c86c6"/>
+<text x="106" y="210" text-anchor="end" font-size="13" font-weight="bold" fill="#333">汉末—唐</text>
+<rect x="138" y="188" width="262" height="34" rx="7" fill="#4c86c6" fill-opacity="0.12" stroke="#4c86c6" stroke-width="1.4"/>
+<text x="150" y="210" font-size="12.5" fill="#333">本土：超群、超凡（人名义来源）</text>
+<rect x="416" y="188" width="282" height="34" rx="7" fill="#7fb069" fill-opacity="0.12" stroke="#7fb069" stroke-width="1.4"/>
+<text x="428" y="210" font-size="12.5" fill="#333">译经：超脱、超度（新义，与本土并行）</text>
+<text x="380.0" y="414" text-anchor="middle" font-size="12.5" fill="#555">人名用"超"取的是汉末已成的"高出同列"义，其盛行期在 20 世纪、以粤语区最集中</text>
+</svg>

@@ -63,6 +63,7 @@ content/
 | 🏛️ 历史 | [汉代的武官体系：重号与杂号将军、校尉，以及司隶校尉的特殊地位](./content/02_culture/history/汉代的武官体系：重号与杂号将军、校尉，以及司隶校尉的特殊地位.md) | growing |
 | 🏛️ 历史 | [唐代的行军制度：行军大总管、"某某道"是什么，与狄仁杰的头衔](./content/02_culture/history/唐代的行军制度：行军大总管、某某道是什么，与狄仁杰的头衔.md) | growing |
 | 🏛️ 训诂 | ["表"字的语义演变时间线](./content/02_culture/philology/表字的语义演变时间线.md) | growing |
+| 🏛️ 训诂 | ["超"字小考：从一跃而过到广府名字"黎仁超"](./content/02_culture/philology/超字小考：从一跃而过到广府名字黎仁超.md) | growing |
 | ⚙️ 计算机科学 | [显示设备亮度、对比度与 Alpha 通道调控的物理机制与数学建模](./content/03_engineering/computer_science/显示设备亮度、对比度与Alpha通道调控的物理机制与数学建模.md) | growing |
 | ⚙️ 计算机科学 | [扫描仪三参数：亮度、对比度与伽马的点运算](./content/03_engineering/computer_science/扫描仪三参数：亮度、对比度与伽马的点运算.md) | growing |
 | ✈️ 航空器 | [航空器](./content/03_engineering/aerospace/航空器.md) | growing |
